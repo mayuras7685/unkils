@@ -1,1 +1,1 @@
-<img src="logo.png" alt="home-page" />
+<img src="logo.png" alt="home-page" height = 500px width = 300px />
